@@ -1,8 +1,5 @@
-*
-!.gitignore
-!*/
+.config/mpd/bin/db/misc/*
+.config/mpd/bin/db/pl/*
+.config/mpd/bin/db/db
 
-!mpd.conf
-
-!playlists/**/*
-
+.config/mpd/bin/lib/*
